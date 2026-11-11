@@ -1,0 +1,27 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test / coverage
+coverage/
+
+# Cache
+.cache/
+.parcel-cache/
